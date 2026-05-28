@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "3B/r5c/xqRw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sa1ks\\Documents\\mdk\\kursach\\rent\\rentalmain1\\RealEstateAgencyApp\\RealEstateAgencyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sa1ks\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.4\\microsoft.extensions.configuration.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.4\\microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.4\\microsoft.extensions.configuration.fileextensions.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.4\\microsoft.extensions.configuration.json.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.4\\microsoft.extensions.fileproviders.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.4\\microsoft.extensions.fileproviders.physical.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.4\\microsoft.extensions.filesystemglobbing.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.4\\microsoft.extensions.primitives.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.4\\system.configuration.configurationmanager.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\system.data.oledb\\9.0.4\\system.data.oledb.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.4\\system.diagnostics.eventlog.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.4\\system.diagnostics.performancecounter.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\system.io.pipelines\\9.0.4\\system.io.pipelines.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.4\\system.security.cryptography.protecteddata.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\system.text.encodings.web\\9.0.4\\system.text.encodings.web.9.0.4.nupkg.sha512",
+    "C:\\Users\\sa1ks\\.nuget\\packages\\system.text.json\\9.0.4\\system.text.json.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
